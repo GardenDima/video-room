@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; padding:20px; }
+#video-grid video { width: 200px; margin:5px; background: black; }
+#users { margin-bottom:10px; }
+#chat { margin-top:10px; }
+#messages { height:200px; overflow-y:scroll; border:1px solid #ccc; padding:5px; margin-bottom:5px;}
